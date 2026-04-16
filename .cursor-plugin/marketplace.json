@@ -37,12 +37,16 @@
         "fastify",
         "fastify-api",
         "fastapi",
-        "android",
         "swift",
+        "android",
         "aspnetcore",
         "dotnet",
         "react-native",
-        "expo"
+        "expo",
+        "node",
+        "jwt",
+        "express-oauth2-jwt-bearer",
+        "express-jwt"
       ],
       "category": "authentication"
     }

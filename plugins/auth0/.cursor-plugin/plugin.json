@@ -9,9 +9,11 @@
   },
   "keywords": [
     "auth0",
-    "authentication",
-    "mfa",
     "quickstart",
+    "migration",
+    "mfa",
+    "security",
+    "sdk",
     "react",
     "nextjs",
     "vue",
@@ -19,12 +21,17 @@
     "angular",
     "express",
     "fastify",
+    "fastify-api",
+    "fastapi",
+    "swift",
     "android",
+    "aspnetcore",
+    "dotnet",
     "react-native",
     "expo",
-    "swift",
-    "fastapi",
-    "dotnet",
-    "aspnetcore"
+    "node",
+    "jwt",
+    "express-oauth2-jwt-bearer",
+    "express-jwt"
   ]
 }
