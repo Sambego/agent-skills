@@ -33,7 +33,7 @@
         "url": "https://github.com/auth0/agent-skills.git",
         "path": "plugins/auth0-sdks"
       },
-      "description": "Framework-specific Auth0 SDK integration skills for React, Next.js, Vue, Nuxt, Angular, Express, Fastify, Swift, Android, ASP.NET Core, and React Native with complete implementation guides.",
+      "description": "Framework-specific Auth0 SDK integration skills for React, Next.js, Vue, Nuxt, Angular, Express, Fastify, Swift, Android, ASP.NET Core, React Native, and Expo with complete implementation guides.",
       "version": "1.0.0",
       "repository": "https://github.com/auth0/agent-skills.git",
       "license": "Apache-2.0",
@@ -57,6 +57,7 @@
         "aspnetcore",
         "dotnet",
         "react-native",
+        "expo",
         "node",
         "jwt",
         "express-oauth2-jwt-bearer",
